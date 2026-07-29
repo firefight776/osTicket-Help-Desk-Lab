@@ -42,9 +42,9 @@ The first phase of the project involved deploying osTicket in a local Windows en
 
 XAMPP was installed to provide the Apache web server, PHP runtime, and MariaDB database required to host osTicket locally. After installation, the Apache and MySQL services were started and verified through the XAMPP Control Panel.
 
-> **Screenshot:** XAMPP Control Panel
+![XAMPP Control Panel](assets/images/Screenshot%202026-07-02%20224251.png)
 
----
+
 
 ### 2. Deploy the osTicket Files
 
@@ -52,9 +52,9 @@ The osTicket installation files were extracted into the XAMPP `htdocs` directory
 
 The installer prerequisites were verified to ensure the required PHP extensions and server components were enabled before continuing with the installation.
 
-> **Screenshot:** osTicket Installer – Prerequisites Check
+![osTicket Installer Prerequisites Check](assets/images/Screenshot%202026-07-03%20000236.png)
 
----
+
 
 ### 3. Configure the Database
 
@@ -62,8 +62,10 @@ A dedicated MariaDB database was created using phpMyAdmin. A database user was a
 
 These credentials were later used during the installation wizard to establish the database connection.
 
-> **Screenshots:**
->
+![phpMyAdmin Database Creation](assets/images/Screenshot%202026-07-05%20110505.png)
+
+
+![Database User Configuration](assets/images/Screenshot%202026-07-05%20115837.png)
 > - phpMyAdmin Database Creation
 > - Database User Configuration
 
