@@ -307,7 +307,6 @@ This workflow provided hands-on experience navigating the osTicket interface, ma
 
 During the deployment and configuration of the osTicket environment, several issues were encountered and reviewed. Troubleshooting these events provided additional experience interpreting system messages, reviewing application logs, and understanding common configuration issues encountered during a help desk deployment.
 
----
 
 ### Mailer Error
 
@@ -315,11 +314,7 @@ During testing, the system generated mailer errors when attempting to send email
 
 Although email delivery was unavailable during testing, the application continued to function normally for ticket creation and management.
 
-![Mailer Error](assets/screenshots/mailer-error.png)
 
-*Figure 19. Mailer error generated while attempting to send email notifications without an SMTP server.*
-
----
 
 ### Invalid CSRF Token
 
@@ -327,17 +322,13 @@ During testing, an "Invalid CSRF Token" message was encountered. CSRF (Cross-Sit
 
 Refreshing the session and repeating the action resolved the issue.
 
-![Invalid CSRF Token](assets/screenshots/csrf-token.png)
 
-*Figure 20. CSRF validation message encountered during testing.*
-
----
 
 ### System Logs
 
 The osTicket system logs were reviewed to identify application events and error messages generated during testing. Reviewing logs is an important troubleshooting technique that assists administrators in diagnosing configuration issues and monitoring system activity.
 
-![System Logs](assets/screenshots/system-logs.png)
+![Reviewing System Logs](assets/images/Screenshot%202026-07-04%20203532.png)
 
 *Figure 21. Reviewing system logs within the osTicket administration portal.*
 
