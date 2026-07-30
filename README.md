@@ -194,7 +194,7 @@ Configuration included:
 - Ticket locking behavior
 - Attachment settings
 
-![Ticket Settings](assets/screenshots/ticket-settings.png)
+![Ticket Settings Configuration](assets/images/Screenshot%202026-07-05%20130850.png)
 
 *Figure 10. Default ticket settings and workflow configuration.*
 
@@ -213,11 +213,11 @@ Configuration included:
 - Ticket assignment notifications
 - Ticket transfer notifications
 
-![Autoresponder](assets/screenshots/autoresponder.png)
+![Autoresponder Configuration](assets/images/Screenshot%202026-07-05%20130832.png)
 
 *Figure 11. Autoresponder configuration.*
 
-![Alerts and Notices](assets/screenshots/alerts-notices.png)
+![Alerts and Notices Configuration](assets/images/Screenshot%202026-07-05%20130921.png)
 
 *Figure 12. Ticket notification and alert configuration.*
 
@@ -239,13 +239,13 @@ After completing the system configuration, support tickets were created and mana
 
 A support request was submitted through the osTicket customer portal. During ticket creation, the requester provided contact information, selected a Help Topic, and entered a description of the issue before submitting the request.
 
-![Open New Ticket](assets/screenshots/open-new-ticket.png)
+![Opening a New Support Ticket](assets/images/Screenshot%202026-07-05%20124836.png)
 
 *Figure 13. Customer portal used to submit a new support request.*
 
 After submission, the system generated a confirmation page containing the newly assigned ticket number, indicating that the request had been successfully received.
 
-![Ticket Created](assets/screenshots/ticket-created.png)
+![Support Ticket Successfully Created](assets/images/Screenshot%202026-07-05%20130308.png)
 
 *Figure 14. Confirmation page displayed after successfully creating a support ticket.*
 
@@ -257,17 +257,16 @@ Once submitted, the ticket appeared in the help desk queue where support staff c
 
 The queue provides technicians with a centralized view of active tickets and their current status.
 
-![Open Ticket Queue](assets/screenshots/open-ticket-queue.png)
+![Open Support Ticket](assets/images/Screenshot%202026-07-06%20085756.png)
 
 *Figure 15. Open ticket queue displaying active support requests.*
 
 A separate queue was also used to display tickets assigned to the currently logged-in technician.
 
-![Assigned Tickets](assets/screenshots/assigned-tickets.png)
+![Assigned Support Tickets](assets/images/Screenshot%202026-07-06%20085810.png)
 
 *Figure 16. Tickets assigned to the current support agent.*
 
----
 
 ### Reviewing Ticket Details
 
@@ -275,7 +274,7 @@ Individual tickets were opened to review the information submitted by the user. 
 
 The example shown documents a support request involving shared drive access.
 
-![Ticket Details](assets/screenshots/shared-drive-ticket.png)
+![Shared Drive Access Ticket Details](assets/images/Screenshot%202026-07-06%20191229.png)
 
 *Figure 17. Reviewing the details of a support ticket within the agent portal.*
 
@@ -285,7 +284,7 @@ The example shown documents a support request involving shared drive access.
 
 After reviewing the request, an update was entered into the ticket documenting the resolution. Recording updates within the ticket provides a history of actions taken and keeps the requester informed throughout the support process.
 
-![Ticket Response](assets/screenshots/ticket-response.png)
+![Ticket Response and Resolution](assets/images/Screenshot%202026-07-06%20191524.png)
 
 *Figure 18. Posting an update to document the resolution of the support request.*
 
