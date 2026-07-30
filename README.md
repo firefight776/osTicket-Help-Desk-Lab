@@ -162,23 +162,22 @@ Permission sets were reviewed across several administrative areas, including:
 
 These configurations demonstrate how administrative access can be delegated while maintaining security and operational control.
 
-![Role Configuration](assets/screenshots/role-configuration.png)
+![Creating and Managing Support Roles](assets/images/Screenshot%202026-07-05%20113122.png)
 
 *Figure 6. Creating and managing support roles.*
 
-![Ticket Permissions](assets/screenshots/ticket-permissions.png)
+![Ticket Permission Configuration](assets/images/Screenshot%202026-07-05%20113129.png)
 
 *Figure 7. Ticket permission configuration.*
 
-![Task Permissions](assets/screenshots/task-permissions.png)
+![Permission Task Configuration](assets/images/Screenshot%202026-07-05%20113136.png)
 
 *Figure 8. Task permission configuration.*
 
-![Knowledgebase Permissions](assets/screenshots/knowledgebase-permissions.png)
+![Knowledge Base Permission Configuration](assets/images/Screenshot%202026-07-05%20113143.png)
 
 *Figure 9. Knowledge Base permission configuration.*
 
----
 
 ### Ticket Settings
 
