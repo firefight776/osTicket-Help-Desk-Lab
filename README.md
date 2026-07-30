@@ -83,9 +83,8 @@ The osTicket installation wizard was completed by configuring:
 
 After installation, the application successfully connected to the MariaDB database and generated the initial help desk environment.
 
-> **Screenshot:** Installation Complete
+![osTicket Installation Complete](assets/images/Screenshot%202026-07-04%20211009.png)
 
----
 
 ### 5. Secure the Installation
 
@@ -93,13 +92,12 @@ After confirming a successful installation, the default setup directory was remo
 
 These post-installation security steps are recommended as part of the official osTicket deployment process.
 
-> **Screenshot:** Installation Complete / Security Reminder
+![Installation Complete / Security Reminder](assets/images/Screenshot%202026-07-05%20105837.png)
 
 ## System Configuration
 
 After completing the installation, the osTicket environment was configured to simulate an enterprise IT help desk. Administrative settings were customized to establish departments, configure agent accounts, define access permissions, and manage ticket handling. These tasks demonstrate the responsibilities commonly performed by Help Desk and Systems Administrators when deploying and maintaining a ticketing platform.
 
----
 
 ### Department Configuration
 
@@ -115,7 +113,7 @@ The following departments were configured within the help desk environment:
 - Human Resources
 - System Administration
 
-![Departments](assets/screenshots/departments.png)
+![Agent Account Configuration](assets/images/Screenshot%202026-07-05%20111919.png)
 
 *Figure 1. Department structure configured within the osTicket administrative portal.*
 
@@ -134,23 +132,23 @@ Configuration included:
 - Assigning team memberships
 - Configuring agent permissions
 
-![Agent Account](assets/screenshots/agent-account.png)
+![Agent Account Configuration](assets/images/Screenshot%202026-07-05%20115819.png)
 
 *Figure 2. Creating a new support agent account.*
 
-![Agent Access](assets/screenshots/agent-access.png)
+![Configuring Department Access and Security Roles](assets/images/Screenshot%202026-07-05%20115826.png)
 
 *Figure 3. Configuring department access and security roles.*
 
-![Agent Permissions](assets/screenshots/agent-permissions.png)
+![Configuring Department Access and Security Roles](assets/images/Screenshot%202026-07-05%20120916.png)
 
 *Figure 4. Assigning permissions to support agents.*
 
-![Agent Teams](assets/screenshots/agent-teams.png)
+![Assigning Permissions to Support Agents](assets/images/Screenshot%202026-07-05%20115837.png)
 
 *Figure 5. Assigning agents to support teams.*
 
----
+![Assigning Agents to Support Teams](assets/images/Screenshot%202026-07-05%20115850.png)
 
 ### Roles and Permissions (RBAC)
 
