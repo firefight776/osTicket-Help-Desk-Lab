@@ -339,17 +339,17 @@ Reviewing application errors and system logs reinforced the importance of verify
 
 ## Lessons Learned
 
-This project provided practical experience deploying, configuring, and administering a help desk platform within a Windows environment. Beyond installing the application, the lab demonstrated the importance of planning the organizational structure of a help desk, assigning appropriate permissions, and documenting support activities throughout the ticket lifecycle.
+This project provided practical experience deploying, configuring, and administering a help desk platform within a Windows environment. Beyond installing the application, I wanted to make the lab resemble a realistic IT support environment rather than simply completing the installation.
 
-Key takeaways from this project include:
+To accomplish this, I created multiple departments representing different areas of an organization, including Help Desk, Network Operations, Cloud Services, Cyber Security, Human Resources, System Administration, and Sales & Billing. I then created support agents, assigned department memberships, configured security roles, and implemented Role-Based Access Control (RBAC) to better understand how organizations manage access and distribute support responsibilities.
 
-- Deploying a PHP-based web application using Apache, MariaDB, and XAMPP.
-- Configuring departments, agent accounts, and Role-Based Access Control (RBAC).
-- Understanding how ticket queues, assignments, and user communication support daily help desk operations.
-- Reviewing application logs and system messages to troubleshoot common configuration issues.
-- Recognizing the importance of clear documentation for maintaining consistency and supporting future troubleshooting efforts.
+I also explored both sides of the ticketing process by using the customer portal to submit support requests before switching to the administrative portal to receive, review, assign, and resolve those tickets. Following a ticket from initial submission through final resolution provided valuable insight into how users interact with the platform and how technicians manage requests throughout the complete incident lifecycle.
 
-Completing this lab strengthened my understanding of how enterprise help desk platforms are deployed, administered, and used to support end users in a structured IT environment.
+Working through the deployment also reinforced the importance of troubleshooting. Resolving installation issues, validating system configuration, reviewing application logs, and correcting configuration errors provided a better understanding of how help desk platforms are deployed and maintained in real-world environments.
+
+Overall, I found osTicket to be an excellent open-source ticketing solution for small businesses and organizations with limited IT budgets. Once the initial installation and configuration challenges were resolved, the platform was straightforward to navigate, making it an effective tool for learning ticket management, administrative configuration, and day-to-day help desk operations.
+
+This project strengthened my understanding of enterprise help desk workflows while giving me practical experience with system deployment, user administration, ticket management, troubleshooting, and technical documentation.
 
 ## Skills Demonstrated
 
